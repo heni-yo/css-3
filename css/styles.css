@@ -69,7 +69,7 @@ strong { font-weight: 900; }
    ================= */
    
 .intro {
-    background-image: url(images/ribs.jpg);
+    background-image: URL(../images/ribs.jpg);
     background-color: #404040;
     background-size: cover;
     background-position: center;
